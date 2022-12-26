@@ -19,7 +19,10 @@ margin-bottom: 40px;;
 }
 body{
     /* background-color: #6e27df; */
-    /* background-color: #5956E8; */
+    /* background-color: rgb(189, 221, 255); */
+    background: linear-gradient(to left, #bdddff, #bdddff);
+    background-size: 50% auto;
+    
 }
 #cd-title{
     font-size:5vw;
@@ -30,7 +33,7 @@ body{
 }
 .bb{
     /* border: 3px solid red; */
-    height: 40px;
+    height: 60px;
 }
 .projs:hover{
     transform: scale(1.05);
