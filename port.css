@@ -17,11 +17,15 @@ margin-bottom: 40px;;
 #btn-indigo{
     background-color: #6610f2;
 }
+.bg-lights{
+    background: linear-gradient(to left, #e9ebec, #e9ebec);
+    
+}
 body{
     /* background-color: #6e27df; */
     /* background-color: rgb(189, 221, 255); */
-    background: linear-gradient(to left, #bdddff, #bdddff);
-    background-size: 50% auto;
+    /* background: linear-gradient(to left, #bdddff, #bdddff);
+    background-size: 50% auto; */
     
 }
 #cd-title{
